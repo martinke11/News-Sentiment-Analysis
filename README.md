@@ -1,4 +1,7 @@
-[![Plotly Dashboard Running Locally](https://img.youtube.com/vi/4A--nK6pMNI/0.jpg)](<iframe width="560" height="315" src="https://www.youtube.com/embed/4A--nK6pMNI" frameborder="0" allowfullscreen></iframe>)
+Screencapture of News Sentiment Analysis Plotly Dashboard running locally
+
+
+[![Plotly Dashboard Running Locally](https://img.youtube.com/vi/4A--nK6pMNI/0.jpg)](https://www.youtube.com/watch?v=4A--nK6pMNI)
 
 Research Question:
 How do the most popular new outlets in the US differ in the way they present Israel versus Hamas and Palestine in terms of subjectivity and the kinds of words they use to describe each group. Media portrayal can influence public opinion and policy, making it crucial to understand these narratives.

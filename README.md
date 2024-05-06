@@ -1,3 +1,5 @@
+# News Sentiment Analysis
+
 Screencapture of News Sentiment Analysis Plotly Dashboard running locally:
 
 

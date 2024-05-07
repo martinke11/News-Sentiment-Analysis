@@ -9,10 +9,16 @@ from newsapi import NewsApiClient
 import pandas as pd
 import subprocess
 import os
-    
+import json
+
+# store api key in private json file
+f = open('C:/Users/news_api.json')
+creds = json.load(f)
+api_key = creds.get('key')
+
 # Initialize News Article API Client
 def init_newsapi():
-    newsapi = NewsApiClient(api_key='')
+    newsapi = NewsApiClient(api_key='api_key')
     
     return newsapi
 

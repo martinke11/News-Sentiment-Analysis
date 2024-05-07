@@ -12,7 +12,7 @@ import os
     
 # Initialize News Article API Client
 def init_newsapi():
-    newsapi = NewsApiClient(api_key='a00af5a8616e458ebad78b08d3feb0d6')
+    newsapi = NewsApiClient(api_key='')
     
     return newsapi
 
